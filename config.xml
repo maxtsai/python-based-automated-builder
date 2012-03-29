@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><config>
+
+	<user email="haiching.tsai@gmail.com" name="Max Tsai"/>
+
+	<result path="/home1/build_result/result/"/>
+
+	<force_build>
+		<enable value="0"/>
+		<disable_after_build value="1"/>
+		<proj name="TEST"/>
+	</force_build>
+
+	<project build="1" name="TEST">
+		<path value=""/>
+		<branch build="1" name="uboot"/>
+		<branch build="1" name="kernel"/>
+	</project>
+
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><build>
+	<lock value="0"/>
+
+	<log>
+		<project name="TEST">
+			<branch commit="e05bc3b152d252561c23b33e36438b3c33c9bdb9 " name="uboot"/>
+			<branch commit="dd5caaa69f407d282da3af85be4d17a4e56a2278 " name="kernel"/>
+		</project>
+	</log>
+</build>
